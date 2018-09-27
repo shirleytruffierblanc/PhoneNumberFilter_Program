@@ -60,7 +60,7 @@ And the result appear on your terminal and in you file.txt you can open it and c
 When you run the program on you computer you had to obtain this result in the file.txt and on your terminal.
 You don't need to creat the file.txt because it is created automaticaly when you lauch the program. 
 
-The result :
+The result is :
 ```
 +512 362 8883
 +512 478 9611
