@@ -48,6 +48,15 @@ Now you can run the program on your terminal with this command.
 ```
  ./program.sh
 ```
+### Verify the result
+
+In order to verify you result in your terminal, you can execute the following command :
+
+```
+cat file.txt
+
+```
+And the result appear on your terminal and in you file.txt you can open it and check too.
 
 ### The result you have to obtain
 
