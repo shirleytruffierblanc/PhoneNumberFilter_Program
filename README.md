@@ -25,7 +25,7 @@ pwd
 and the result must be :
 
 ```
-/home/workspace
+/home/[USERNAME]/workspace
 ```
 Copy and Paste data.txt and program.sh in your workspace forlder.
 You can verify if this files are inside the workspace folder :
