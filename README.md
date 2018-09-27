@@ -17,7 +17,7 @@ mkdir workspace && cd workspace
 ## Running the program
 ### How you can allow the execution of the program
 
-At the beggining you had to verify if you are in the right folder before executing the following command. 
+At the begining you had to verify if you are in the right folder before executing the following command. 
 
 ```
 pwd
@@ -27,7 +27,7 @@ and the result must be :
 ```
 /home/workspace
 ```
-Put data.txt and program.sh in your workspace forlder.
+Copy and Paste data.txt and program.sh in your workspace forlder.
 You can verify if this files are inside the workspace folder :
 ```
 ls
