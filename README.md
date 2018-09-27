@@ -54,7 +54,6 @@ In order to verify you result in your terminal, you can execute the following co
 
 ```
 cat file.txt
-
 ```
 And the result appear on your terminal and in you file.txt you can open it and check too.
 
