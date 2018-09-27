@@ -58,7 +58,7 @@ cat file.txt
 And the result appear on your terminal and in you file.txt you can open it and check too.
 
 When you run the program on you computer you had to obtain this result in the file.txt and on your terminal.
-You don't need to creat the file.txt file because it is created automaticaly when you lauch the program. 
+You don't need to creat the file.txt because it is created automaticaly when you lauch the program. 
 
 The result :
 ```
