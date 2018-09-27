@@ -1,4 +1,4 @@
-# Number filtering
+# Number filtering Program
  
 The file (program.sh) it is the real program which permit to sort out phone numbers in a data.txt file (I take this name for  example because here the file which contains phone numbers it's called data.txt) .
 
