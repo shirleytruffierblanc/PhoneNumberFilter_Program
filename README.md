@@ -12,7 +12,7 @@ First, download the program.sh file on your computer. You can download the zip f
 
 Now create a file "workspace" in which you can put the program.sh, and the data.txt.
 ```
-mkdir workspace && cd workspace
+sudo mkdir workspace && cd workspace
 ```
 ## Running the program
 ### How you can allow the execution of the program
