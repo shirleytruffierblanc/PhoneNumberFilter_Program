@@ -34,7 +34,7 @@ ls
 ```
 The result must be :
 ```
-data.txt program.sh
+data.txt program.sh README.md
 ```
 
 After that, we make the file program.sh executable with chmod (you need to make it executable only once)
