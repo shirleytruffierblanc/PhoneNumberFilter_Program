@@ -20,7 +20,6 @@ chmod +x phonenumberfilter.sh
 ```
 
 ## Running the program
-### How you can allow the execution of the program
 
 To run phone-number-filter.sh use `./program.sh <data file>`. Example to use the provide data file:
 ```
