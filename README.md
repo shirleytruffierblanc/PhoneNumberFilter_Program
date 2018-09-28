@@ -37,7 +37,7 @@ The result must be :
 data.txt program.sh
 ```
 
-After that, we make the file program.sh executable with chmod
+After that, we make the file program.sh executable with chmod (you need to make it executable only once)
 
 ```
 chmod +x program.sh
