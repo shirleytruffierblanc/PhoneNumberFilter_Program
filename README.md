@@ -14,9 +14,6 @@ Now create a file "workspace" in which you can put the program.sh, and the data.
 ```
  mkdir -p $HOME/workspace && cd workspace
 ```
-## Running the program
-### How you can allow the execution of the program
-
 Now you had to clone the content of the project wip file into your workpace forder, run the following command :
 
 ```
@@ -31,7 +28,9 @@ ls
 The result must be :
 ```
 data.txt program.sh README.md
-```
+``````
+## Running the program
+### How you can allow the execution of the program
 
 After that, we make the file program.sh executable with chmod (you need to make it executable only once)
 
