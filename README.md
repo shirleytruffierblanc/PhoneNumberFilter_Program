@@ -46,8 +46,10 @@ chmod +x program.sh
 Now you can run the program on your terminal with this command.
 
 ```
- ./program.sh
+ ./program.sh data.txt
 ```
+You should know that data.txt is the name of the document, it is located after the program execution command as you can see above. You can replace data.txt with a file you want containing phone numbers to sort after the ./program.sh command.
+
 ### Verify the result
 
 In order to verify you result in your terminal, you can execute the following command :
