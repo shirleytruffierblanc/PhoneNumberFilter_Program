@@ -10,7 +10,7 @@ So if you want to sort out phone numbers which begin by +512 in a file, this pro
 
 Clone the project. When you clone the project you have a ZIP file which contains : README.md, data.txt, program.sh.
 
-Now create a file "workspace" in which you can put the program.sh, and the data.txt.
+Now create a file "workspace":
 ```
  mkdir -p $HOME/workspace && cd workspace
 ```
