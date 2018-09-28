@@ -15,7 +15,7 @@ First create a file "workspace":
 Now you had to clone the content of the project zip file into your workpace forder, run the following command :
 
 ```
-git clone git@github.com:shirleytruffierblanc/PhoneNumberFilter_Program.git
+git clone https://github.com/shirleytruffierblanc/PhoneNumberFilter_Program.git
 cd PhoneNumberFilter_Program/
 ```
 
@@ -62,5 +62,6 @@ The result is :
 +512 716 3925
 +512 251 1523
 +512 254 8888
++512 251 2458
 ```
 
