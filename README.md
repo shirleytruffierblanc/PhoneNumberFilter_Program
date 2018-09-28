@@ -26,7 +26,7 @@ To run phone-number-filter.sh use `./program.sh <data file>`. Example to use the
 ./phonenumberfilter.sh data.txt
 ```
 
-### Verify the result
+## Results
 
 In order to verify you result in your terminal, you can execute the following command :
 
