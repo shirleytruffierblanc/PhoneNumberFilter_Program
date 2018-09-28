@@ -19,7 +19,7 @@ git clone https://github.com/shirleytruffierblanc/PhoneNumberFilter_Program.git
 cd PhoneNumberFilter_Program/
 ```
 
-You can verify if this files are inside the workspace folder :
+You can verify if this files are inside the PhoneNumberFilter_Program folder :
 ```
 ls
 ```
