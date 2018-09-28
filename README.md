@@ -10,7 +10,7 @@ Clone this Github repo:
 
 ```
 git clone https://github.com/shirleytruffierblanc/PhoneNumberFilter_Program.git
-cd PhoneNumberFilter_Program/
+cd phonenumberfilter/
 ```
 
 To make the script executable
@@ -24,7 +24,7 @@ chmod +x phonenumberfilter.sh
 
 To run phone-number-filter.sh use `./program.sh <data file>`. Example to use the provide data file:
 ```
-./program.sh data.txt
+./phonenumberfilter.sh data.txt
 ```
 
 ### Verify the result
@@ -32,9 +32,9 @@ To run phone-number-filter.sh use `./program.sh <data file>`. Example to use the
 In order to verify you result in your terminal, you can execute the following command :
 
 ```
-cat file.txt
+cat resultphonenumberfilter.txt
 ```
-You don't need to creat the file.txt because it is created automaticaly when you lauch the program. 
+You don't need to creat the resultphonenumberfilter.txt because it is created automaticaly when you lauch the program. 
 
 The result is :
 ```
