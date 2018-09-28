@@ -12,8 +12,7 @@ First, download the program.sh file on your computer. You can download the zip f
 
 Now create a file "workspace" in which you can put the program.sh, and the data.txt.
 ```
-cd Documents
-mkdir workspace && cd workspace
+ mkdir -p $HOME/workspace && cd workspace
 ```
 ## Running the program
 ### How you can allow the execution of the program
@@ -26,7 +25,7 @@ pwd
 and the result must be :
 
 ```
-/home/[USERNAME]/Documents/workspace
+/home/[USERNAME]/workspace
 ```
 Copy and Paste data.txt and program.sh in your workspace forlder.
 You can verify if this files are inside the workspace folder :
