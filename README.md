@@ -12,7 +12,7 @@ First create a file "workspace":
 ```
  mkdir -p $HOME/workspace && cd workspace
 ```
-Now you had to clone the content of the project wip file into your workpace forder, run the following command :
+Now you had to clone the content of the project zip file into your workpace forder, run the following command :
 
 ```
 git clone git@github.com:shirleytruffierblanc/PhoneNumberFilter_Program.git
