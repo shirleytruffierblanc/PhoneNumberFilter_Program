@@ -17,19 +17,11 @@ Now create a file "workspace" in which you can put the program.sh, and the data.
 ## Running the program
 ### How you can allow the execution of the program
 
-At the begining you had to verify if you are in the right folder before executing the following command. 
+Now you had to clone the content of the project wip file into your workpace forder, run the following command :
 
 ```
-pwd
-```
-and the result must be :
-
-```
-/home/[USERNAME]/workspace
-```
-Put your zip content in your workspace:
-```
-
+git clone git@github.com:shirleytruffierblanc/PhoneNumberFilter_Program.git
+cd PhoneNumberFilter_Program/
 ```
 
 You can verify if this files are inside the workspace folder :
