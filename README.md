@@ -68,6 +68,14 @@ To run this program you must change branch.
  git status
  ```
  
+ ### Make the script executable
+
+To make the script executable :
+
+```
+chmod +x phone-number-filter.sh
+```
+ 
  ## Running the program
  
 To run phone-number-filter.sh use `./all-phone-number-filte.sh <data file>`. Example to use the provide data file:
