@@ -23,7 +23,7 @@ chmod +x phone-number-filter.sh
 
 ## Running the program
 
-To run phone-number-filter.sh use `./program.sh <data file>`. Example to use the provide data file:
+To run phone-number-filter.sh use `./phone-number-filter.sh <data file>`. Example to use the provide data file:
 ```
 ./phone-number-filter.sh data.txt
 ```
