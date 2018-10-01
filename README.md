@@ -61,20 +61,11 @@ The result is :
 To run this program you must change branch.
  ```
  git checkout allphonenumberfilter
- 
  ```
  Verify if your are in the right branch :
  ```
  git status
  ```
- 
- ### Make the script executable
-
-To make the script executable :
-
-```
-chmod +x phone-number-filter.sh
-```
  
  ## Running the program
  
