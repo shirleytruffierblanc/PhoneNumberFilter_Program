@@ -11,7 +11,7 @@ And the program extracts all the different state number.
 Clone this Github repository:
 
 ```
-https://github.com/shirleytruffierblanc/phone-number-filter.git
+git clone https://github.com/shirleytruffierblanc/phone-number-filter.git
 cd phone-number-filter/
 ```
 
