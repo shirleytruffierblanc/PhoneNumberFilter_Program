@@ -6,34 +6,34 @@ This script extracts phones numbers that starts with +512 from an input file.
 
 ### Installing
 
-Clone this Github repo:
+Clone this Github repository:
 
 ```
 git clone https://github.com/shirleytruffierblanc/PhoneNumberFilter_Program.git
 cd phonenumberfilter/
 ```
 
-To make the script executable
+To make the script executable :
 
 ```
-chmod +x phonenumberfilter.sh
+chmod +x phone-number-filter.sh
 ```
 
 ## Running the program
 
 To run phone-number-filter.sh use `./program.sh <data file>`. Example to use the provide data file:
 ```
-./phonenumberfilter.sh data.txt
+./phone-number-filter.sh data.txt
 ```
 
 ## Results
 
-In order to verify you result in your terminal, you can execute the following command :
+In order to display your results in your terminal, you can execute the following command :
 
 ```
-cat resultphonenumberfilter.txt
+cat result-phonenumber-filter.txt
 ```
-You don't need to creat the resultphonenumberfilter.txt because it is created automaticaly when you lauch the program. 
+You don't need to creat the result-phonenumber-filter.txt because it is created automaticaly when you lauch the program. 
 
 The result is :
 ```
