@@ -9,7 +9,7 @@ This script extracts phones numbers that starts with +512 from an input file.
 Clone this Github repository:
 
 ```
-git clone https://github.com/shirleytruffierblanc/PhoneNumberFilter_Program.git
+git clone https://github.com/shirleytruffierblanc/phone-number-filter.git
 cd phonenumberfilter/
 ```
 
