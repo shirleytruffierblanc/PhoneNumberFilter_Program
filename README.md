@@ -10,7 +10,7 @@ Clone this Github repository:
 
 ```
 git clone https://github.com/shirleytruffierblanc/phone-number-filter.git
-cd phonenumberfilter/
+cd phone-number-filter/
 ```
 
 To make the script executable :
