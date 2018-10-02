@@ -62,10 +62,6 @@ To run this program you must change branch.
  ```
  git checkout allphonenumberfilter
  ```
- Verify if your are in the right branch :
- ```
- git status
- ```
  
  ## Running the program
  
