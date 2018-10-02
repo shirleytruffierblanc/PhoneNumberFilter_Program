@@ -16,7 +16,7 @@ To run this program you must change branch.
  
  ## Running the program and results
  
-To run phone-number-filter.sh use `./all-phone-number-filte.sh <data file>`. to display your results in your terminal
+To run phone-number-filter.sh use `./all-phone-number-filte.sh <data file>` and to display your results in your terminal
 ```
 chmod +x all-phone-number-filter.sh | ./all-phone-number-filter.sh data.txt && cat all-result-phonenumber-filter.txt
 ```
