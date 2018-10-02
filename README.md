@@ -32,6 +32,6 @@ The result is :
 (314) 225-2543
 (979) 547-6854
 (276) 225-6985
-The number of line is :10 result-phonenumber-filter.txt
+The number of line is :10 all-result-phonenumber-filter.txt
 
 ```
