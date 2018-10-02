@@ -20,8 +20,6 @@ To run phone-number-filter.sh use `./all-phone-number-filte.sh <data file>`. to 
 ```
 chmod +x all-phone-number-filter.sh | ./all-phone-number-filter.sh data.txt && cat all-result-phonenumber-filter.txt
 ```
-You don't need to create the all-result-phonenumber-filter.txt because it is created automaticaly when you lauch the program. 
-
 The result is :
 ```
 (512) 258-6589
