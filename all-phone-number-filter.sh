@@ -8,7 +8,10 @@
 #all-result-phonenumber-filter.txt is the outpout which contains the right phone number with the right format
 #and the phone numbers amount
 
-grep -E '^[ ]{0,9}\([0-9]{3}\) [0-9]{3}-[0-9]{4}[ ]{0,9}$' data.txt | sed 's/^[ \t]*//' > all-result-phonenumber-filter.txt
-count=$(wc -l all-result-phonenumber-filter.txt)
+tmp=$(mktemp)
+grep -E '^[ ]{0,9}\([0-9]{3}\) [0-9]{3}-[0-9]{4}[ ]{0,9}$' $1 | sed 's/^[ \t]*//' > "$tmp"
+count=$(wc -l < "$tmp")
 
-echo "The number of line is :$count" >> all-result-phonenumber-filter.txt
+echo "The number of line is :$count" >> "$tmp"
+cat "$tmp"
+rm "$tmp"
