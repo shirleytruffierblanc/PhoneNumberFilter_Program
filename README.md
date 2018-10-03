@@ -18,7 +18,7 @@ To run this program you must change branch.
  
 To run phone-number-filter.sh use `./all-phone-number-filte.sh <data file>` and to display your results in your terminal
 ```
-ls data.txt | ./all-phone-number-filter.sh | cat all-result-phonenumber-filter.txt 
+cat data.txt | ./all-phone-number-filter.sh | tee all-result-phonenumber-filter.txt
 ```
 The result is :
 ```
@@ -32,6 +32,5 @@ The result is :
 (314) 225-2543
 (979) 547-6854
 (276) 225-6985
-The number of line is :10 all-result-phonenumber-filter.txt
-
+The number of line is :10
 ```
